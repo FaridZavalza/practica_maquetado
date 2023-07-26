@@ -1,0 +1,36 @@
+.head_box {
+    background: yellowgreen;
+    padding: 10px;
+}
+nav {
+    background: green;
+    color: white;
+}
+aside {
+    background: orange;
+    color: white;
+    display: inline-block;
+    height: 50vh;
+    width: 20vh;
+    border-style: 10vh dotted, red;
+}
+main {
+    display: inline-block;
+    background: red;
+    color: white;
+    width: 150vh;
+    margin: 20px;
+    padding: 20px
+}
+ article {
+    height: 30px;
+    margin: 20px;
+    background:white;
+    color: black;
+} 
+footer {
+    margin: 10px;
+    color: white;
+    background: purple;
+    height: 10vh;
+}
